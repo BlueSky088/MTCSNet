@@ -1,0 +1,3 @@
+[01/01]Total Loss: 0.825741, learning_rate: 0.00033
+[01/02]Total Loss: 0.220736, learning_rate: 0.00033
+[02/02]Total Loss: 0.175037, learning_rate: 0.00050

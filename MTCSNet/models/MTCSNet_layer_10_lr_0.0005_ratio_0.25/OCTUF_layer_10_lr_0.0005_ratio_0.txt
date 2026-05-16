@@ -1,0 +1,11 @@
+[01/100]Total Loss: 0.849739, learning_rate: 0.00033
+[02/100]Total Loss: 0.623864, learning_rate: 0.00050
+[03/100]Total Loss: 0.407884, learning_rate: 0.00050
+[04/100]Total Loss: 0.442902, learning_rate: 0.00050
+[05/100]Total Loss: 0.279516, learning_rate: 0.00050
+[06/100]Total Loss: 0.223411, learning_rate: 0.00050
+[07/100]Total Loss: 0.203779, learning_rate: 0.00050
+[08/100]Total Loss: 0.204955, learning_rate: 0.00050
+[09/100]Total Loss: 0.198640, learning_rate: 0.00049
+[01/02]Total Loss: 0.231100, learning_rate: 0.00033
+[02/02]Total Loss: 0.224926, learning_rate: 0.00050
